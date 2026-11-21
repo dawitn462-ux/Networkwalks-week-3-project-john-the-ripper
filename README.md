@@ -83,6 +83,8 @@ Opened the originally locked PDF, entered the recovered password at the prompt, 
 ✅ **Result:** PDF unlocked, lab objective completed.
 
 ---
+Author :
+Dawit Nigus Mamo
 
 ## 🔑 Key Takeaway
 
